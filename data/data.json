@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "2",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "Programming",
+      "price": 32.5,
+      "cover": "https://books.google.com/books/publisher/content?id=_i6bDeoCQzsC&printsec=frontcover&img=1&…"
+    },
+    {
+      "id": "3",
+      "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+      "author": "James Clear",
+      "category": "Self-help",
+      "price": 18.9,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    },
+    {
+      "id": "4",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "category": "History",
+      "price": 21,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    },
+    {
+      "id": "5",
+      "title": "The Pragmatic Programmer: Your Journey To Mastery",
+      "author": "Andrew Hunt, David Thomas",
+      "category": "Programming",
+      "price": 29.99,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    },
+    {
+      "id": "6",
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport",
+      "category": "Productivity",
+      "price": 17.5,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    },
+    {
+      "id": "7",
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "category": "Design",
+      "price": 23.4,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    },
+    {
+      "id": "8",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "category": "Psychology",
+      "price": 19.99,
+      "cover": "https://books.google.com/books/publisher/content?id=PXa2bby0oQ0C&printsec=frontcover&img=1&… "
+    }
+  ]
+}
